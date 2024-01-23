@@ -4,6 +4,7 @@
   "website_url": "https://theladpack.today/",
   "description": "Tons of gameplay enhancements & extra features",
   "dependencies": [
+    "TheLadPack-TheLadPackModpack-1.2.0",
     "BepInEx-BepInExPack-5.4.2100",
     "FlipMods-ReservedFlashlightSlot-1.6.1",
     "FlipMods-ReservedWalkieSlot-1.6.0",
